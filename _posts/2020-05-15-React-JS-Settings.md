@@ -1,5 +1,5 @@
 ---
-title: "[ReactJS] 기초 개념 및 환경 세팅"
+title: "[ReactJS]기초 개념 및 환경 세팅"
 categories:
   - Javascript
   - reactJS
