@@ -1,5 +1,5 @@
 ---
-title: "[ReactJS] 생활코딩 - 시작하기, 컴포넌트 만들기"
+title: "[ReactJS]생활코딩 - 시작하기, 컴포넌트 만들기"
 categories:
   - Javascript
   - reactJS
